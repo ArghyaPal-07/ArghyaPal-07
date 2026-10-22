@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="anime.gif" width="700" alt="Anime">
+</p>
 
-<!--
-**ArghyaPal-07/ArghyaPal-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArghyaPal-07&label=visitors&color=0080FE&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Full Stack Developer
+</p>
+
+<p align="center">
+  <a href="https://">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/arghya-pal-772049322">Linkedin</a> •
+  <a href="mailto:arghyapal072005@gmail.com">Email</a>
+</p>
