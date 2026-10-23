@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  ![]<img src="https://komarev.com/ghpvc/?username=ArghyaPal-07&label=visitors&color=0080FE&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ArghyaPal-07&label=visitors&color=0080FE&style=flat" />
 </p>
 
 <p align="center">
