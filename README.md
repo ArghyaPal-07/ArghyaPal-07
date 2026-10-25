@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://">Portfolio</a> •
+  <a href="https://arghya-pal.vercel.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/arghya-pal-772049322">Linkedin</a> •
   <a href="mailto:arghyapal072005@gmail.com">Email</a>
 </p>
